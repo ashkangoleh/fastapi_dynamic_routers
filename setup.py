@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='fastapi_dynamic_routes',
+    name='fastapi_dynamic_routers',
     version='0.1',
     packages=find_packages(),
     install_requires=[

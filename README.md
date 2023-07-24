@@ -4,10 +4,10 @@ fastapi_dynamic_routes is a Python library that provides a dynamic routes includ
 
 ## Installation
 
-You can install fastapi_dynamic_routes using pip:
+You can install fastapi_dynamic_routers using pip:
 
 ```bash
-pip install fastapi_dynamic_routes
+pip install fastapi_dynamic_routers
 ```
 
 
@@ -15,7 +15,7 @@ pip install fastapi_dynamic_routes
 
 ```python
 from fastapi import FastAPI
-from fastapi_dynamic_routes import Routers
+from fastapi_dynamic_routers import Routers
 
 app = FastAPI()
 
