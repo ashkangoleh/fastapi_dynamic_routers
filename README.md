@@ -1,6 +1,6 @@
-# fastapi_dynamic_routes
+# fastapi_dynamic_routers
 
-fastapi_dynamic_routes is a Python library that provides a dynamic routes includer for FastAPI. It allows you to register routes dynamically and keep your codebase clean and organized.
+fastapi_dynamic_routers is a Python library that provides a dynamic routes includer for FastAPI. It allows you to register routes dynamically and keep your codebase clean and organized.
 
 ## Installation
 
