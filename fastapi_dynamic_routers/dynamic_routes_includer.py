@@ -4,7 +4,7 @@ from fastapi import FastAPI
 
 
 class Routers:
-    def __init__(self, app: FastAPI, routes: list, prefix: str = '/v1/api/') -> None:
+    def __init__(self, app: FastAPI, routes: list, prefix: str = '/v1/api') -> None:
         self.app = app
         self.routes = routes
         self.prefix = prefix
